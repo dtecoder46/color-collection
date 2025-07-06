@@ -21,7 +21,21 @@ import HelloWorld from "./components/HelloWorld.vue";
 
     <br /><br />
 
-    <hr class="solid" />
+    <hr class="solid border-4" />
+
+    <br />
+
+    <button class="bg-b29a72 p-3 ml-5 border-4">#B29A72</button>
+    <button class="bg-222019 p-3 ml-5 border-4 text-white">#222019</button>
+    <button class="bg-dfd9cf p-3 ml-5 border-4">#DFD9CF</button>
+    <button class="bg-595441 p-3 ml-5 border-4 text-white">#595441</button>
+    <button class="bg-5f2f17 p-3 ml-5 border-4 text-white">#5F2F17</button>
+
+    <br /><br />
+
+    <hr class="solid border-4" />
+
+    <br />
   </div>
 </template>
 
