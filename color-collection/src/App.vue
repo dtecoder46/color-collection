@@ -36,6 +36,12 @@ import HelloWorld from "./components/HelloWorld.vue";
     <hr class="solid border-4" />
 
     <br />
+
+    <button class="bg-353e67 p-3 ml-5 border-4 text-white">#B29A72</button>
+    <button class="bg-ccac95 p-3 ml-5 border-4">#222019</button>
+    <button class="bg-76abd8 p-3 ml-5 border-4">#DFD9CF</button>
+    <button class="bg-532c19 p-3 ml-5 border-4 text-white">#595441</button>
+    <button class="bg-6292c8 p-3 ml-5 border-4">#5F2F17</button>
   </div>
 </template>
 
