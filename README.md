@@ -1,5 +1,7 @@
 # Color Collection
 
+![Color Collection logo](./color-collection/src/assets/cclogo.jpeg)
+
 A website containing an assortment of color palettes which can be used on any project
 
 ## Tech Stack
