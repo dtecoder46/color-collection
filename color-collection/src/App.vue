@@ -61,6 +61,20 @@
     <button class="bg-6d2c18 p-3 ml-5 border-4 text-white">#6D2C18</button>
     <button class="bg-d4d8d6 p-3 ml-5 border-4">#D4D8D6</button>
     <button class="bg-cdc6b0 p-3 ml-5 border-4">#CDC6B0</button>
+
+    <br /><br />
+
+    <hr class="solid border-4" />
+
+    <br />
+
+    <h2 class="ml-5 text-3xl">Palette 5</h2>
+
+    <button class="bg-997e65 p-3 ml-5 border-4">#997E65</button>
+    <button class="bg-22242a p-3 ml-5 border-4 text-white">#22242A</button>
+    <button class="bg-ced8c6 p-3 ml-5 border-4">#CED8C6</button>
+    <button class="bg-a3adb7 p-3 ml-5 border-4">#A3ADB7</button>
+    <button class="bg-5b2f27 p-3 ml-5 border-4 text-white">#5B2F27</button>
   </div>
 </template>
 
