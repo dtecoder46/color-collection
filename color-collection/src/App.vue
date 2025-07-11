@@ -75,6 +75,20 @@
     <button class="bg-ced8c6 p-3 ml-5 border-4">#CED8C6</button>
     <button class="bg-a3adb7 p-3 ml-5 border-4">#A3ADB7</button>
     <button class="bg-5b2f27 p-3 ml-5 border-4 text-white">#5B2F27</button>
+
+    <br /><br />
+
+    <hr class="solid border-4" />
+
+    <br />
+
+    <h2 class="ml-5 text-3xl">Palette 6</h2>
+
+    <button class="bg-aaceae p-3 ml-5 border-4">#AACEAE</button>
+    <button class="bg-aedaad p-3 ml-5 border-4">#AEDAAD</button>
+    <button class="bg-aee355 p-3 ml-5 border-4">#AEE355</button>
+    <button class="bg-aaaddd p-3 ml-5 border-4">#AAADDD</button>
+    <button class="bg-eeface p-3 ml-5 border-4">#EEFACE</button>
   </div>
 </template>
 
